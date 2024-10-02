@@ -4,7 +4,7 @@
 
 >21 anos e natural de Nova Iguaçu, RJ. Apaixonado por futebol, música e o Rio, sou um torcedor assíduo do Flamengo e grande fã de Jorge Ben, The Beatles e Mac Demarco.
 
->Desde pequeno tenho contato com tecnlogia, seja jogando vídeogame ou no computador, porém foi em  meados de 2023 que entre na área da programação e estou amando cada vez mais.
+>Desde pequeno tenho contato com tecnlogia, seja jogando vídeogame ou no computador, porém foi em  meados de 2023 que entrei na área da programação e estou amando cada vez mais.
 
 >Atualmente estou cursando o 2° Período de Aálise e Desenvolvimento de Sistemas pela FAETERJ Paracambi. Estou me desenvolvendo para ingressar no mercado de trabalho, com um foco na Ciência de Dados.
 
