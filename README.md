@@ -6,7 +6,7 @@
 
 >Desde pequeno tenho contato com tecnologia, seja jogando vídeogame ou apenas no computador. Porém foi em meados de 2023 que entrei na área da programação e cada vez mais me sinto entusiasmado com esse segmento.
 
->Atualmente estou cursando o 4° Período de Análise e Desenvolvimento de Sistemas pela FAETERJ Paracambi. Busco me desenvolver mais para ingressar no mercado de trabalho, com um foco em Ciência de Dados.
+>Atualmente estou cursando o 5° Período de Análise e Desenvolvimento de Sistemas pela FAETERJ Paracambi. Busco me desenvolver mais para ingressar no mercado de trabalho, com um foco em Ciência de Dados.
 
 ## 🌐 Contato
 >Você pode me encontrar aqui para trocarmos uma ideia.
