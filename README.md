@@ -6,6 +6,8 @@
 
 > Estudo Python, SQL e Estatística com aplicações práticas em manipulação de dados, modelagem relacional e fundamentos de Machine Learning. Paralelamente, utilizo Excel e Power BI para análise e visualização.
 
+> Repositório com meus projetos de [Ciência de Dados](https://github.com/rafamarqsdev24/porfolio-data-science).
+
 ## 💼 Experiência Profissional
 
 ### Raízen Lubrificantes (11/2024 - 04/2025)
@@ -14,7 +16,7 @@
 
 > Fui responsável pelo controle de envios de amostras para clientes e laboratórios externos, na gestão de materiais do laboratório e na organização de arquivos, garantindo eficiência, rastreabilidade e conformidade com os padrões estabelecidos pelo LQS.
 
-> Entre minhas ferramentas de trabalho, destaca-se o Excel e Power BI.
+> Entre as ferramentas que utilizei no trabalho, destaca-se o Excel e Power BI.
 
 ## 🛠️ Tecnologias
 
